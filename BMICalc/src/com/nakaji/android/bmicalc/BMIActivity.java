@@ -11,7 +11,6 @@ public class BMIActivity extends BindingActivity {
     private BMIViewModel viewModel = new BMIViewModel();
 
     /** Called when the activity is first created. */
-    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 

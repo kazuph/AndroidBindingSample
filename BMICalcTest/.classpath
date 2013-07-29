@@ -5,6 +5,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/BMICalc"/>
 	<classpathentry kind="lib" path="lib/android.jar"/>
-	<classpathentry kind="lib" path="/BMICalc/lib/android-binding-0.45-update.jar"/>
+	<classpathentry kind="lib" path="/Users/kazuhiro.honma/hack/android/AndroidBindingSample/BMICalc/libs/android-binding-v30-0.52.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
